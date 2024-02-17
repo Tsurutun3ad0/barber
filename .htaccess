@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^INICIO$ index.html [L]
+RewriteRule ^Nuestro-Trabajo$ blog-default.html [L]
+RewriteRule ^Lista-de-servicios$ servis-list.html [L]
+RewriteRule ^contacto$ contact.html [L]
+RewriteRule ^Sobre-Nosotros$ testimonial.html [L]
