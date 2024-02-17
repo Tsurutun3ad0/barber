@@ -445,8 +445,7 @@ label { }
 .footer-social ul li { }
 .footer-social ul li a i { padding-right: 10px; width: 30px; }
 .footer-social ul li a:hover i { color: #aa9144; }
-.footer .contact li { position: relative; padding-left: 40px; display: block; '
-margin-bottom: 8px; padding: 0 0 8px 40px; color: #747474; }
+.footer .contact li { position: relative; padding-left: 40px; display: block; margin-bottom: 8px; padding: 0 0 8px 40px; color: #747474; }
 .footer .contact li i { display: block; position: absolute; top: 5px; left: 0; width: 30px; 
     font-size: 16px; text-align: center; }
 .widget-newsletter .form-control { height: 48px; color: #eee; background-color: #393836; border: none; box-shadow: none; 
